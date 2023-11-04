@@ -7,9 +7,9 @@ Após isto, foi usado um algorítimo YoloV5 para realizar o treino e validação
 
 ### Lucas Bernardo da Costa
 
-|**Classificação**|**YoloV5**|**Python**|
+|**Tipo de Projeto**|**Modelo Selecionado**|**Linguagem**|
 |--|--|--|
-|Classificação de Imagens<br>ou<br>Deteção de Objetos|ex.: YOLOv5|PyTorch ou Tensorflow|
+|Classificação de Imagens<br>|YOLOv5|Tensorflow|
 
 ## Performance
 
