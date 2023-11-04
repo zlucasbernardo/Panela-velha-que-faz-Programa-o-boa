@@ -31,16 +31,10 @@ O modelo treinado possui performance de **100%**.
 </details>
 
 ### Evidências do treinamento
-
-Nessa seção você deve colocar qualquer evidência do treinamento, como por exemplo gráficos de perda, performance, matriz de confusão etc.
-
-Exemplo de adição de imagem:
 <img width="430" alt="exemplo de classe" src="https://github.com/zlucasbernardo/Panela-velha-que-faz-Programa-o-boa/assets/147263402/44fa92e7-79a1-4f27-8a85-2f906838a24b">
 
 
 ## Roboflow
 
 Nessa seção deve colocar o link para acessar o dataset no Roboflow
-![Uploading exemplo de classe.png…]()
-
-Exemplo de link: [https://universe.roboflow.com/cesar-school-h4lgz/classificador-de-panelas]
+[https://universe.roboflow.com/cesar-school-h4lgz/classificador-de-panelas]
