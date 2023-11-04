@@ -36,5 +36,4 @@ O modelo treinado possui performance de **100%**.
 
 ## Roboflow
 
-Nessa seção deve colocar o link para acessar o dataset no Roboflow
 [https://universe.roboflow.com/cesar-school-h4lgz/classificador-de-panelas]
